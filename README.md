@@ -16,4 +16,4 @@ reading
 [第５回目はコチラ](https://github.com/dddosaka/reading_ddd_report/wiki/vol5_20140419)
 
 
-
+[第6回](https://github.com/dddosaka/reading_ddd_report/wiki/vol6_20140506)
