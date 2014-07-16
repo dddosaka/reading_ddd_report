@@ -20,3 +20,5 @@ reading
 [第７回目はコチラ](https://github.com/dddosaka/reading_ddd_report/wiki/vol7_20140601)
 
 [第８回目はコチラ](https://github.com/dddosaka/reading_ddd_report/wiki/vol8_20140622)
+
+[第９回目はコチラ](https://github.com/dddosaka/reading_ddd_report/wiki/vol9_20140713)
