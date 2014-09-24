@@ -25,4 +25,4 @@ reading
 
 [第１０回目（DDD本読書シリーズとしては最終）](https://github.com/dddosaka/reading_ddd_report/wiki/vol10_20140823)
 
-[第１１回LT会](https://github.com/dddosaka/reading_ddd_report/wiki/vol11_20140713_lightning_talks)
+[第１１回LT会](https://github.com/dddosaka/reading_ddd_report/wiki/vol11_20140921_lightning_talks)
