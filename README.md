@@ -1,9 +1,9 @@
 ドメイン駆動設計読書会@大阪、レポートwikiリンク集
 =======
 
-## 開催ログ
-
 [レポートWiki](https://github.com/dddosaka/reading_ddd_report/wiki/_pages)
+
+## 開催ログ
 
 [第１回目はコチラ](https://github.com/dddosaka/reading_ddd_report/wiki/vol1_20140222)
 
@@ -29,4 +29,4 @@
 
 ## その他
 
-- [2018\.07 note Bounded Context · dddosaka/reading\_ddd\_report Wiki](https://github.com/dddosaka/reading_ddd_report/wiki/2018.07-note-Bounded-Context)
+- [2018\.07 note Bounded Context](https://github.com/dddosaka/reading_ddd_report/wiki/2018.07-note-Bounded-Context)
