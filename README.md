@@ -29,4 +29,4 @@
 
 ## その他
 
-- [2018\.07 note Bounded Context](https://github.com/dddosaka/reading_ddd_report/wiki/2018.07-note-Bounded-Context)
+- [2018\.07 note Bounded Context](https://github.com/dddosaka/reading_ddd_report/wiki/2018.07-note-(Bounded-Context))
